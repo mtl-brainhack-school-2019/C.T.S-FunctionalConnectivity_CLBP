@@ -14,7 +14,7 @@ What I'm aiming to do in this project:
 * Make a Jupyter Notebook of my analysis
 * Choose and do brain percellations (use 2 differents parcellations, to validate)
 * Run some functional analysis using python
-
+..
 
 
 
