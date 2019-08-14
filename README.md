@@ -1,4 +1,4 @@
-# CLBP_FunctionalConnectivity
+# C.T.S - FunctionalConnectivity on CLBP patients
 By Christophe Tanguay-Sabourin (GitHub: CTanguay-Sabourin)
 
 Here is my project for the Brain Hack School 2019. This project will observe functional connectivity with fMRI on patients experiencing chronic low back pain. The data were acquired from OpenPain by the Apkarian Lab, in Northwestern University (http://www.openpain.org/dataPortal.html)
