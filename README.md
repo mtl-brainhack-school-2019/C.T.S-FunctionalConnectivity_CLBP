@@ -60,7 +60,7 @@ I will be associating the brain connectivity with classics questionnaires in cli
 
 * **Beck Depression Inventory (BDI)** to measure the severity of depression symptoms
 
-![BDI-II](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiSx8aSuoXkAhUBJt8KHSHeA6AQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pearsonassessments.com%2Fstore%2Fusassessments%2Fen%2FStore%2FProfessional-Assessments%2FPersonality-%2526-Biopsychosocial%2FBeck-Depression-Inventory-II%2Fp%2F100000159.html&psig=AOvVaw0xVutWVCupW3El7hmhMn2p&ust=1565978178385891)
+![BDI-II](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjS09OMu4XkAhXPUt8KHSyTA9QQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3D%252Furl%253Fsa%253Di%2526source%253Dimages%2526cd%253D%2526ved%253D%2526url%253Dhttps%25253A%25252F%25252Fchicagomindsolutions.com%25252Fcontact%25252Fintake-forms%25252Fbdi%25252F%2526psig%253DAOvVaw0xRtmhHsb5qmBEiMI72RYH%2526ust%253D1565978614036427%26psig%3DAOvVaw0xRtmhHsb5qmBEiMI72RYH%26ust%3D1565978614036427&psig=AOvVaw0xRtmhHsb5qmBEiMI72RYH&ust=1565978614036427)
 
 ![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9ypHHuoXkAhUrZN8KHeOMAdoQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.increase-project.eu%252Fimages%252FDOWNLOADS%252FIO2%252FEN%252FCURR_M2-A12_Beck-Depr-Invent_(EN-only)_20170920_EN_final.pdf%26psig%3DAOvVaw3d3wcJC7iylcjLKMFDVrFh%26ust%3D1565978466357272&psig=AOvVaw3d3wcJC7iylcjLKMFDVrFh&ust=1565978466357272)
 
