@@ -60,7 +60,10 @@ I will be associating the brain connectivity with classics questionnaires in cli
 
 * **Beck Depression Inventory (BDI)** to measure the severity of depression symptoms
 
-![BDI-II](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjS8efwuYXkAhXwUt8KHb0hDb8QjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Frebtinfo.com%252Fbeck-depression-inventory-bdi%252F%26psig%3DAOvVaw0xVutWVCupW3El7hmhMn2p%26ust%3D1565978178385891&psig=AOvVaw0xVutWVCupW3El7hmhMn2p&ust=156597817838589)
+![BDI-II](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiSx8aSuoXkAhUBJt8KHSHeA6AQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pearsonassessments.com%2Fstore%2Fusassessments%2Fen%2FStore%2FProfessional-Assessments%2FPersonality-%2526-Biopsychosocial%2FBeck-Depression-Inventory-II%2Fp%2F100000159.html&psig=AOvVaw0xVutWVCupW3El7hmhMn2p&ust=1565978178385891)
+
+![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9ypHHuoXkAhUrZN8KHeOMAdoQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.increase-project.eu%252Fimages%252FDOWNLOADS%252FIO2%252FEN%252FCURR_M2-A12_Beck-Depr-Invent_(EN-only)_20170920_EN_final.pdf%26psig%3DAOvVaw3d3wcJC7iylcjLKMFDVrFh%26ust%3D1565978466357272&psig=AOvVaw3d3wcJC7iylcjLKMFDVrFh&ust=1565978466357272)
+
 
 * **Ecological Momentary Assessement**, to sample pain daily in real time, in subject's environment for 2 weeks.
     * Mean
