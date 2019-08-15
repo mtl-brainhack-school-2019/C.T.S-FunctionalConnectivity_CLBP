@@ -54,9 +54,14 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 I will be associating the brain connectivity with various classics questionnaires ansd variables in clinical pain, descriptive of the severity:
 
-* **McGill Pain Questionnaire (MPQ)**, 
+* **McGill Pain Questionnaire (MPQ)**, assess the quality and intensity of pain.
 
-![MPQ](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiuu9zFtYXkAhUQU98KHdG6AQ0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fmedicine-and-dentistry%2Fmcgill-pain-questionnaire&psig=AOvVaw3k-ydT4fz-4uwNaUEc18tx&ust=1565977124532677)
+![MPQ](https://ars.els-cdn.com/content/image/3-s2.0-B9781416058939002227-gr4.jpg)
+
+* **Beck Depression Inventory (BDI)** to measure the severity of depression symptoms
+
+![BDI-II](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjoq4TmtoXkAhUBm-AKHe2YAwMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.increase-project.eu%2Fimages%2FDOWNLOADS%2FIO2%2FEN%2FCURR_M2-A12_Beck-Depr-Invent_(EN-only)_20170920_EN_final.pdf&psig=AOvVaw3trXdu8bvMLaE7t8Yq7BOY&ust=1565977318502112)
+
 
 
 
