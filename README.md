@@ -6,17 +6,12 @@ Here is my project for the Brain Hack School 2019.
 ## Which dataset do I want to analyze (if any)? ##
 For my project, I will use a dataset available on **OpenPain**, an open access data sharing platform for brain imaging studies of human pain. You can find the data set *Placebo_1* on http://www.openpain.org/index.html, provided by the Apkarian Lab, situated in Northwestern University.
 
-<p align="center">
-  <img />
-</p>
 ![CLBP](http://dev.www.health.harvard.edu/media/content/images/L0714e-1.jpg)
 
-For more information about the dataset, you may also refers to its original study:
+This dataset comes from an RCT study investigating the determinants of placebo response. For more information about the dataset, you may also refers to its original study:
 
+Vachon-Presseau, E., Berger, S. E., Abdullah, T. B., Huang, L., Cecchi, G. A., Griffith, J. W., … Apkarian, A. V. (2018). Brain and psychological determinants of placebo pill response in chronic pain patients. *Nature communications*, 9(1), 3397.
 
-The dataset is named
-
-The dataset that I will be using originates from a RCT study placebo for patients experiencing chronic low back pain (available on
 
 This project will observe functional connectivity with rsfMRI on patients experiencing chronic low back pain. 
 The data were acquired from OpenPain by the Apkarian Lab, in Northwestern University (http://www.openpain.org/dataPortal.html)
