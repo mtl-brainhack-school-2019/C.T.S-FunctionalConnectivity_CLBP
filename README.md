@@ -3,6 +3,8 @@
 
 Here is my project for the Brain Hack School 2019. 
 
+My n
+
 ## Which dataset do I want to analyze? ##
 For my project, I will use a dataset available on **OpenPain**, an open access data sharing platform for brain imaging studies of human pain. You can find the data set *Placebo_1* on http://www.openpain.org/index.html, provided by the Apkarian Lab, situated in Northwestern University.
 
@@ -58,7 +60,6 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 - [ ] [ **Data** ] Present my output data obtained from fmriprep
 
 - [ ] [ **Notebook** ] Make the script on a Jupyter Notebook, with all the relevant explanations of the analysis.
-
 
 - [ ] [ **Notebook & Analysis** ] Provide some vizualizations of my preliminary results from nilearn and netneurotools
 
