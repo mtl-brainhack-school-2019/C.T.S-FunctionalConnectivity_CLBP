@@ -53,7 +53,7 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 - [x] [ **Code** ] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
 
-- [ ] [ **Code & Analysis ** ] Python script of my functional connectivity & cross-validation analysis
+- [ ] [ **Code & Analysis** ] Python script of my functional connectivity & cross-validation analysis
 
 - [ ] [ **Data** ] Present my output data obtained from fmriprep
 
@@ -64,7 +64,9 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 ## What kind of medium will I use to present my results? ##
 
-### A Jupyter Notebook presenting all my results & Lists of scripts on my repository ###
+* ###A Jupyter Notebook presenting all my results###
+
+* ###Lists of scripts on my repository###
 
 
 
