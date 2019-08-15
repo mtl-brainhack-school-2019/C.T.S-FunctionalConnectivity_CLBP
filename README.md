@@ -51,11 +51,15 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 ## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
-- [x] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
+- [x] [ **Code** ] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
 
-- []
+- [ ] Python script of my functional connectivity & cross-validation analysis
 
-- [ ] Jupyter Notebook with complete analysis
+- [ ] Provide some vizualizations of my rests from nilearn and netneurotools
+
+- [ ] Make the script on a Jupyter Notebook, with all the relevant explanations
+
+
 
 ## What kind of medium will I use to present my results? ##
 
