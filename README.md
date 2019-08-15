@@ -12,7 +12,7 @@ For my project, I will use a dataset available on **OpenPain**, an open access d
 
 This dataset comes from an RCT study investigating the determinants of placebo response. I will use the control group (i.e without placebo treatment; 68 participants) using their structural (T1w) and functioncal (rsfMRI) scans, during their first scanning sessions. For more information about the dataset, you may also refers to its original study:
 
-#### Vachon-Presseau, E., Berger, S. E., Abdullah, T. B., Huang, L., Cecchi, G. A., Griffith, J. W., … Apkarian, A. V. (2018). Brain and psychological determinants of placebo pill response in chronic pain patients. *Nature communications*, 9(1), 3397. #####
+#### Vachon-Presseau, E., Berger, S. E., Abdullah, T. B., Huang, L., Cecchi, G. A., Griffith, J. W., … Apkarian, A. V.         (2018). Brain and psychological determinants of placebo pill response in chronic pain patients. *Nature communications*,       9(1), 3397. ####
 
 ## Which tools do I want to learn? ##
 
@@ -22,13 +22,20 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 * **Python**, as my programming language
 
+
 * **Jupyter**, as my notebook for codes, visualizations and narratives.
+
+![JupyterNotebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)
 
 * **Nilearn**, for my neuroimaging analysis and brain parcellations.
 
-                  Schaeffer & Yeo, 2018. 400 Brain Parcellations derived within the 7 Networks.
+                  Schaeffer & Yeo, 2018. 400 Brain Parcellations derived within the 7 Network Modules
                   
 ![Schaeffer](https://pbs.twimg.com/media/Dz2u7WCU8AIxNJ4.jpg)
+
+                  Power & Peterson, 2011. 264 Brain Parcellations; network modules can also be mapped.
+                  
+![Power](https://ars.els-cdn.com/content/image/1-s2.0-S0896627311007926-gr1.jpg)
 
 
 * **Netneurotools**, for some of my functional connectivity analysis (tools from *Bratislav Mišić*), using PLS and *bootstrap ratios* as a cross-validation method.
