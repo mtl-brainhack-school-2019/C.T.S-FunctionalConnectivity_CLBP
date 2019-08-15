@@ -18,10 +18,15 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 * **Fmiprep**, as my pre-processing pipeline.
 
+![fmriprep](https://pbs.twimg.com/media/Dbt_hXeVQAEZHTS.jpg)
+
 * **Compute Canada (Beluga)**, as my computing platform
+
+![ComputeCanada](https://www.ace-net.ca/wp-content/uploads/2018/03/Compute_Canada2.png)
 
 * **Python**, as my programming language
 
+![Python](https://content.techgig.com/thumb/msid-67886887,width-860,resizemode-4/How-Developers-use-Python-Programming-Language.jpg?50999)
 
 * **Jupyter**, as my notebook for codes, visualizations and narratives.
 
