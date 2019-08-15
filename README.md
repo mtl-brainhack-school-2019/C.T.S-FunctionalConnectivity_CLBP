@@ -53,7 +53,7 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 - [x] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
 
-- [
+- []
 
 - [ ] Jupyter Notebook with complete analysis
 
