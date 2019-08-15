@@ -47,6 +47,8 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 * **Netneurotools**, for some of my functional connectivity analysis (tools from *Bratislav Mišić*), using PLS and *bootstrap ratios* as a cross-validation method.
 
+![Netneurotools](https://avatars0.githubusercontent.com/u/31446908?s=400&v=4)
+
 ## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
 - [x] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
