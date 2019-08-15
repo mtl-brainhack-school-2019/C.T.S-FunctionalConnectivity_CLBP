@@ -53,28 +53,19 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 - [x] [ **Code** ] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
 
-- [ ] Python script of my functional connectivity & cross-validation analysis
+- [ ] [ **Code & Analysis ** ] Python script of my functional connectivity & cross-validation analysis
 
-- [ ] Provide some vizualizations of my rests from nilearn and netneurotools
+- [ ] [ **Data** ] Present my output data obtained from fmriprep
 
-- [ ] Make the script on a Jupyter Notebook, with all the relevant explanations
+- [ ] [ **Notebook** ] Make the script on a Jupyter Notebook, with all the relevant explanations of the analysis.
 
 
+- [ ] [ **Notebook & Analysis** ] Provide some vizualizations of my preliminary results from nilearn and netneurotools
 
 ## What kind of medium will I use to present my results? ##
 
+### A Jupyter Notebook presenting all my results & Lists of scripts on my repository ###
 
-
-### What I'm aiming to do in this project: ###
-* Install and operate fmriprep pre-processing on Compute Canada clusters
-* Write all my scripts (from the installation of fmriprep on Beluga to my statistical analysis) in python & bash 
-    * They will all be posted on GitHub repo
-* Make a Jupyter Notebook of my analysis
-* Export different brain parcellations (types & sizes) to implement in the functional connectivity
-      * Network Modules (17 parcellations, by Yeo 2011 and ???)
-      * Fine-grain parcellations (400 parcellations, by Schaefer & Yeo 2018 and 264 parcellations, by Power & Peterson 2011)
-* Write and run a script for functional connectivity analysis
-* Cross-validate my results
 
 
 
