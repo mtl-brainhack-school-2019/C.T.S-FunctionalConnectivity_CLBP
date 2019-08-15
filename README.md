@@ -10,7 +10,7 @@ For my project, I will use a dataset available on **OpenPain**, an open access d
 
 This dataset comes from an RCT study investigating the determinants of placebo response. For more information about the dataset, you may also refers to its original study:
 
-Vachon-Presseau, E., Berger, S. E., Abdullah, T. B., Huang, L., Cecchi, G. A., Griffith, J. W., … Apkarian, A. V. (2018). Brain and psychological determinants of placebo pill response in chronic pain patients. *Nature communications*, 9(1), 3397.
+###### Vachon-Presseau, E., Berger, S. E., Abdullah, T. B., Huang, L., Cecchi, G. A., Griffith, J. W., … Apkarian, A. V. (2018). Brain and psychological determinants of placebo pill response in chronic pain patients. *Nature communications*, 9(1), 3397. #######
 
 
 This project will observe functional connectivity with rsfMRI on patients experiencing chronic low back pain. 
