@@ -4,7 +4,14 @@
 Here is my project for the Brain Hack School 2019. 
 
 ## Which dataset do you want to analyze (if any)? ##
-* For my project, I will use a dataset available on **OpenPain**, an open access data sharing platform for brain imaging studies of human pain. This online resources is provided by the Apkarian Lab, in Northwestern University. The dataset is named
+For my project, I will use a dataset available on **OpenPain**, an open access data sharing platform for brain imaging studies of human pain. You can find the data set *Placebo_1* on http://www.openpain.org/index.html, provided by the Apkarian Lab, situated in Northwestern University.
+
+![CLBP](
+
+For more information about the dataset, you may also refers to its original study:
+
+
+The dataset is named
 
 The dataset that I will be using originates from a RCT study placebo for patients experiencing chronic low back pain (available on
 
