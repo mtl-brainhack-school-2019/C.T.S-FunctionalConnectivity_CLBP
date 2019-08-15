@@ -10,17 +10,24 @@ For my project, I will use a dataset available on **OpenPain**, an open access d
 
 This dataset comes from an RCT study investigating the determinants of placebo response. For more information about the dataset, you may also refers to its original study:
 
-###### Vachon-Presseau, E., Berger, S. E., Abdullah, T. B., Huang, L., Cecchi, G. A., Griffith, J. W., … Apkarian, A. V. (2018). Brain and psychological determinants of placebo pill response in chronic pain patients. *Nature communications*, 9(1), 3397. #######
+#### Vachon-Presseau, E., Berger, S. E., Abdullah, T. B., Huang, L., Cecchi, G. A., Griffith, J. W., … Apkarian, A. V. (2018). Brain and psychological determinants of placebo pill response in chronic pain patients. *Nature communications*, 9(1), 3397. #####
+
+## Which tools do I want to learn? ##
+
+* **Fmiprep**, as pre-processing pipeline.
+
+* **Compute Canada (Beluga)**, as computing platform
+
+* **Python**, as programming language
+
+* **Jupyter**, as a notebook for codes, visualizations and narratives.
+
 
 
 This project will observe functional connectivity with rsfMRI on patients experiencing chronic low back pain. 
 The data were acquired from OpenPain by the Apkarian Lab, in Northwestern University (http://www.openpain.org/dataPortal.html)
 
 *NOTE: The structural data are currently not available on OpenPain (only functional data), but they should be in September. A subset of the data was selected (i.e. the control group. For more information, see the original paper: https://www.nature.com/articles/s41467-018-05859-1) with 68 patients, with their T1w and rsBOLD.*
-
-## Which tools do I want to learn? ##
-
-
 
 ## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
