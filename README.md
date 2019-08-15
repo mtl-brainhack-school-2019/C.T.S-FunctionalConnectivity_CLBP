@@ -50,6 +50,16 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 ![Netneurotools](https://avatars0.githubusercontent.com/u/31446908?s=400&v=4)
 
+
+
+I will be associating the brain connectivity with various classics questionnaires ansd variables in clinical pain, descriptive of the severity:
+
+* **McGill Pain Questionnaire (MPQ)**, 
+
+![MPQ](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiuu9zFtYXkAhUQU98KHdG6AQ0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fmedicine-and-dentistry%2Fmcgill-pain-questionnaire&psig=AOvVaw3k-ydT4fz-4uwNaUEc18tx&ust=1565977124532677)
+
+
+
 ## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
 - [x] [ **Code** ] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
