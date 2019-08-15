@@ -6,6 +6,8 @@ Here is my project for the Brain Hack School 2019.
 ## Which dataset do I want to analyze (if any)? ##
 For my project, I will use a dataset available on **OpenPain**, an open access data sharing platform for brain imaging studies of human pain. You can find the data set *Placebo_1* on http://www.openpain.org/index.html, provided by the Apkarian Lab, situated in Northwestern University.
 
+*NOTE: The structural data are currently not available on OpenPain (only functional data), but they should be in September.*
+
 ![CLBP](http://dev.www.health.harvard.edu/media/content/images/L0714e-1.jpg)
 
 This dataset comes from an RCT study investigating the determinants of placebo response. I will use the control group (i.e without placebo treatment; 68 participants) using their structural (T1w) and functioncal (rsfMRI) scans, during their first scanning sessions. For more information about the dataset, you may also refers to its original study:
@@ -33,10 +35,6 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 - 
 
 - [ ] Jupyter Notebook with complete analysis
-This project will observe functional connectivity with rsfMRI on patients experiencing chronic low back pain. 
-The data were acquired from OpenPain by the Apkarian Lab, in Northwestern University (http://www.openpain.org/dataPortal.html)
-
-*NOTE: The structural data are currently not available on OpenPain (only functional data), but they should be in September. A subset of the data was selected (i.e. the control group. For more information, see the original paper: https://www.nature.com/articles/s41467-018-05859-1) with 68 patients, with their T1w and rsBOLD.*
 
 ## What kind of medium will I use to present my results? ##
 
