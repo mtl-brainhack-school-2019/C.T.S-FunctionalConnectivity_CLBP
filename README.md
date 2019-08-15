@@ -3,7 +3,7 @@
 
 Here is my project for the Brain Hack School 2019. 
 
-## Which dataset do I want to analyze (if any)? ##
+## Which dataset do I want to analyze? ##
 For my project, I will use a dataset available on **OpenPain**, an open access data sharing platform for brain imaging studies of human pain. You can find the data set *Placebo_1* on http://www.openpain.org/index.html, provided by the Apkarian Lab, situated in Northwestern University.
 
 *NOTE: The structural data are currently not available on OpenPain (only functional data), but they should be in September.*
@@ -25,6 +25,9 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 * **Jupyter**, as my notebook for codes, visualizations and narratives.
 
 * **Nilearn**, for my neuroimaging analysis and brain parcellations.
+
+![Schaeffer](https://pbs.twimg.com/media/Dz2u7WCU8AIxNJ4.jpg)
+
 
 * **Netneurotools**, for some of my functional connectivity analysis (tools from *Bratislav Mišić*), using PLS and *bootstrap ratios* as a cross-validation method.
 
