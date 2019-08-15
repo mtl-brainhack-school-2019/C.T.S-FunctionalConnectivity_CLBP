@@ -64,9 +64,9 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 ## What kind of medium will I use to present my results? ##
 
-### *A Jupyter Notebook presenting all my results ###
+### A Jupyter Notebook presenting all my preliminary results, visualizations and explanations ###
 
-### *Lists of scripts on my repository ###
+### Folder on my repository with a copy of all my scripts used in this project ###
 
 
 
