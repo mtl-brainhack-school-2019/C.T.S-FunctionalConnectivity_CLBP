@@ -26,6 +26,8 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 * **Nilearn**, for my neuroimaging analysis and brain parcellations.
 
+                  Schaeffer & Yeo, 2018. 400 Brain Parcellations derived within the 7 Networks.
+                  
 ![Schaeffer](https://pbs.twimg.com/media/Dz2u7WCU8AIxNJ4.jpg)
 
 
