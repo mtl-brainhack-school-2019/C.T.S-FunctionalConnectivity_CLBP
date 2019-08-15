@@ -3,10 +3,10 @@
 
 Here is my project for the Brain Hack School 2019. 
 
-## Which dataset do you want to analyze (if any)? ##
+## Which dataset do I want to analyze (if any)? ##
 For my project, I will use a dataset available on **OpenPain**, an open access data sharing platform for brain imaging studies of human pain. You can find the data set *Placebo_1* on http://www.openpain.org/index.html, provided by the Apkarian Lab, situated in Northwestern University.
 
-![CLBP](
+![CLBP](https://ibb.co/QMXDL1Z)
 
 For more information about the dataset, you may also refers to its original study:
 
@@ -20,14 +20,14 @@ The data were acquired from OpenPain by the Apkarian Lab, in Northwestern Univer
 
 *NOTE: The structural data are currently not available on OpenPain (only functional data), but they should be in September. A subset of the data was selected (i.e. the control group. For more information, see the original paper: https://www.nature.com/articles/s41467-018-05859-1) with 68 patients, with their T1w and rsBOLD.*
 
-## Which tools do you want to learn? ##
+## Which tools do I want to learn? ##
 
 
 
-## Which kind of deliverable do you want to implement: analysis, code, data, tutorial...? ##
+## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
 
-## What kind of medium will you use to present the results? ##
+## What kind of medium will I use to present my results? ##
 
 
 
