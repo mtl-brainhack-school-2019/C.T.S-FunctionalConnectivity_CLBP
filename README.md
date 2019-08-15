@@ -28,6 +28,11 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 ## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
+- [x] Scripts to download and operate fmriprep on Compute Canadas
+
+- 
+
+- [ ] Jupyter Notebook with complete analysis
 This project will observe functional connectivity with rsfMRI on patients experiencing chronic low back pain. 
 The data were acquired from OpenPain by the Apkarian Lab, in Northwestern University (http://www.openpain.org/dataPortal.html)
 
