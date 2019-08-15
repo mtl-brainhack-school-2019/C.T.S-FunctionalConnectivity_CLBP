@@ -33,9 +33,9 @@ This dataset comes from an RCT study investigating the determinants of placebo r
 
 ## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
-- [x] Scripts to download and operate fmriprep on Compute Canadas
+- [x] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
 
-- 
+- [
 
 - [ ] Jupyter Notebook with complete analysis
 
