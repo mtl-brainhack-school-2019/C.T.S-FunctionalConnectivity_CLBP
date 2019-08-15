@@ -10,7 +10,7 @@ For my project, I will use a dataset available on **OpenPain**, an open access d
 
 ![CLBP](http://dev.www.health.harvard.edu/media/content/images/L0714e-1.jpg)
 
-This dataset comes from an RCT study investigating the determinants of placebo response. I will use the control group (i.e without placebo treatment; 68 participants) using their structural (T1w) and functioncal (rsfMRI) scans, during their first scanning sessions. For more information about the dataset, you may also refers to its original study:
+This dataset comes from an RCT study investigating the determinants of placebo response. I will use the control group (i.e without placebo treatment; 68 participants) using their structural (T1w) and functioncal (rsfMRI) scans, during their first scanning session. For more information about the dataset, you may also refers to its original study:
 
 #### Vachon-Presseau, E., Berger, S. E., Abdullah, T. B., Huang, L., Cecchi, G. A., Griffith, J. W., … Apkarian, A. V.         (2018). Brain and psychological determinants of placebo pill response in chronic pain patients. *Nature communications*,       9(1), 3397. ####
 
