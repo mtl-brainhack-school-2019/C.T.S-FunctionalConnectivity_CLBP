@@ -57,4 +57,13 @@ Then, you will load the package typing ```module load fsl/6.0.1```
 **#5. If you want to download packages or any other resources, what do you need to do? You will need to create a virtual environment**
 This will allow to prevent interaction from your own packages to the one of the softwares. This will be useful to run a Notebook of your scripts (i.e. Jupyter Notebook), or to install python packages.
 For general information on the command ```virtualenv```, see: https://docs.computecanada.ca/wiki/Python
-<br /> ```
+***Set up an environment called ```ENV``` on your directory of interest***
+<br /> ``` $ module load python/3.7.0 ``` *Need to use python to create environment*
+<br /> ``` $ virtualenv --no-download /Path/to/your/directory/ENV ``` *Create the virtual environment*
+<br /> ``` $ source /Path/to/your/directory/ENV/bin/activate ``` *Activate the virtual environment*
+<br /> ``` $ pip install --no-index --upgrade pip ``` *Upgrade the installation pip function to the newest version*
+<br /> ``` $ pip install "PYTHON PACKAGE" ``` *Download any package of your choice*
+<br /> ``` $ deactivate ``` *To deactivate your environment*
+
+
+**This will help you use Jupyter Notebook, R or any other software on compute canada**
