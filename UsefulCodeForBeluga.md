@@ -31,5 +31,21 @@ Once you get confirmation for your registration (24-48h), here are useful codes 
 <br /> ```cd /home/username/projects/ctb-PI/username/YourProjectDirectory(optional)/```
 
 #3. **How to transfer files on the cluster?**
-<br /> **For small files:
-<br /> You can use scp command to copy from your own terminal (*you will have to ```exit``` to leave the cluster to do it your own terminal)
+For general information, see: https://docs.computecanada.ca/wiki/Transferring_data
+
+
+<br /> **For small files:**
+<br /> You can use ```scp``` command to copy from your own terminal (*you will have to ```exit``` to leave the cluster to do it your own terminal*)
+<br /> Transfer a file to folder on Beluga (Computer -> Beluga): 
+<br />  ```scp /Path/to/Computer/File username@beluga.computecanada.ca:/Path/to/Beluga/Folder/```
+<br /> Transfer a folder from Beluga to your computer (Beluga -> Computer): 
+<br />  ```scp -r tangsab8@beluga.computecanada.ca:/Path/to/Beluga/Folder/ /Path/to/Computer/Folder ```
+<br /> *Note the ``` -r ``` allows you to specify if your transfering a **folder** or a **file** .*
+<br /> For more information ```scp```, see : http://www.hypexr.org/linux_scp_help.php
+
+
+<br /> **For bigger files (300 GB & +) :**
+<br /> You should use **Globus** guided-user interface to transfer files. You will log in with your id: username; pwassword: same as on computecanada. 
+See: https://auth.globus.org/p/login?redirect_uri=%2Fv2%2Foauth2%2Fauthorize%3Fclient_id%3Dd3b6054b-92e4-11e5-8a1d-3c970e0c9cc4%26scope%3Durn%253Aglobus%253Aauth%253Ascope%253Aauth.globus.org%253Aview_identities%2520urn%253Aglobus%253Aauth%253Ascope%253Anexus.api.globus.org%253Agroups%2520urn%253Aglobus%253Aauth%253Ascope%253Atransfer.api.globus.org%253Aall%26response_type%3Dtoken%26redirect_uri%3Dhttps%253A%252F%252Fglobus.computecanada.ca%252Flogin%26redirect_name%3DCompute%2520Canada%2520Globus%2520Web%2520App%26state%3Dn036kay823c&response_type=token&client_id=d3b6054b-92e4-11e5-8a1d-3c970e0c9cc4&scope=urn%3Aglobus%3Aauth%3Ascope%3Aauth.globus.org%3Aview_identities+urn%3Aglobus%3Aauth%3Ascope%3Anexus.api.globus.org%3Agroups+urn%3Aglobus%3Aauth%3Ascope%3Atransfer.api.globus.org%3Aall&redirect_name=Compute+Canada+Globus+Web+App
+
+For more complete information on how to use Globus, see: https://www.youtube.com/watch?v=iIfeVxplZ8U
