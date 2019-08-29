@@ -19,7 +19,7 @@ echo $isub
 	for ises in ses-2 # list sessions
 	do
 	echo $ises
-  cd $fmriprep/${isub}/${ises}/func/
-  awk -F$'\t' '{print $1 $5 $12 $667 $671 $675 $679 $683 $687}' ${isub}_${ises}_task-rest_run-1_desc-confounds_regressors.tsv  > ${isub}_${ises}_task-rest_run-1_desc-confounds_regressors_final.tsv
-  done
+ 	cd $fmriprep/${isub}/${ises}/func/
+  	awk -F$'\t' '{print $1 $5 $12 $667 $671 $675 $679 $683 $687}' ${isub}_${ises}_task-rest_run-1_desc-	confounds_regressors.tsv  > ${isub}_${ises}_task-rest_run-1_desc-confounds_regressors_final.tsv
+	done
 done
