@@ -1,0 +1,26 @@
+# Here is a small script to select the counfounds of interest from the regressors obtained by fmriprep
+# Here, $1 $5 $12 $667 $671 $675 $679 $683 $687 refers to the columns of the file. These includes 6 DoF, Csf, White Matter and Global Signal
+
+export fmriprep=$'/path/to/fmriprep/output/folder/FMRIPREP_OUTPUT/fmriprep/'
+echo $fmriprep
+export data=$'/path/to/data/'
+echo $data
+
+#### Selecting confounds of interest ####
+#!/bin/bash
+cd $data
+### Participant Loop
+fileNames=($(ls -d sub*)) #Participant list
+shift
+for isub in "${fileNames[@]}"
+do
+echo $isub
+### Session loop
+	for ises in ses-2 # list sessions
+	do
+	echo $ises
+  cd $fmriprep/${isub}/${ises}/func/
+  touch ${isub}_${ises}_task-rest_run-1_desc-confounds_regressors_final.tsv
+  awk -F$'\t' '{print $1 $5 $12 $667 $671 $675 $679 $683 $687}' ${isub}_${ises}_task-rest_run-1_desc-confounds_regressors.tsv  > ${isub}_${ises}_task-rest_run-1_desc-confounds_regressors_final.tsv
+  done
+done
