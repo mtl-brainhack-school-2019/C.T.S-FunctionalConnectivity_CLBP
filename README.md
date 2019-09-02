@@ -1,15 +1,29 @@
-#### Functional Connectivity on Chronic Low Back Pain (CLBP) patients ####
+#### Building Analysis Templates for Functional Connectivity on Chronic Low Back Pain (CLBP) patients for my lab and myself ####
 ## By Christophe Tanguay-Sabourin (GitHub: CTanguay-Sabourin)##
 
 Here is my project for the Brain Hack School 2019. 
 
+## Purpose of this repository ##
+This repository provides the basics (and relevant ressources) on how to use Compute Canada Servers, fMRIprep pre-processing pipeline as well as doing various standard functional connectivity measures on nilearn, explained through a jupyter notebook. 
 
-## Which dataset do I want to analyze? ##
-For my project, I will use a dataset available on **OpenPain**, an open access data sharing platform for brain imaging studies of human pain. You can find the data set *Placebo_1* on http://www.openpain.org/index.html, provided by the Apkarian Lab, situated in Northwestern University.
+## My Project ##
+My project will be to introduce Compute Canada and fMRIprep to my fellow lab members. This includes the necessary informations et ressources to create an account, connect to the cluster, to know how to use a terminal, to import fMRIprep and run jobs with fMRIprep. 
 
-*NOTE: The structural data are currently not available on OpenPain (only functional data), but they should be in September.*
+Additionally, I will also include in a jupyter notebook the necessary basics to run the following analyses & visualization: 
+- Present two differents ways to load (slow with structure vs fast without structure)
+- Fetching parcellations (Yeo's and Schaefer's; and how to plot them)
+- Derive ICA networks from the groups & plot them together/individually
+- Extract spheres from specific coordinates
+- Apply masks on the nifti files for region-of-interest
+- Run time-series, and make correlations/partial correlation/tangent between the ROIs
+- Extract summary measures as numpy array for the group or each participant.
+
+This notebook will use the *Placebo_1* Dataset, freely available from **OpenPain** (see: http://www.openpain.org/index.html).
+
+*NOTE: The structural data are currently not available on OpenPain (only functional data), but they will  be in the 10th of September.*
 
 ![CLBP](http://dev.www.health.harvard.edu/media/content/images/L0714e-1.jpg)
+
 
 This dataset comes from an RCT study investigating the determinants of placebo response. I will use the control group (i.e without placebo treatment; 68 participants) using their structural (T1w) and functioncal (rsfMRI) scans, during their first scanning session. For more information about the dataset, you may also refers to its original study:
 
