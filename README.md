@@ -28,34 +28,55 @@ This notebook will use the *Placebo_1* Dataset, freely available from **OpenPain
 #### What you will need #####
 - You will need to create an account on Compute Canada. See the following folder ( https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/1.%20UsefulCodeForBeluga.md ).
 
-## Which tools am I using? ##
+#### What I learn in brainhack #####
+I would like to say *everything*. During a single month, I tripled or quadripuled the amount of knowledge I had on computer science-related and neuroimaging knowledge I had.
+
+Not only I had the occasion to learn in a supportive environment how to implement open tools in my own projects, but I also learned what else exist out there. I was thought tools that I might not immediately use on my current thesis, but I now have a familiarity with them, can refers them to some of my collegues or implement them in future projects.
+
+## Which tools did I learned primarily? ##
 
 * **Fmiprep**, as my pre-processing pipeline.
-
 ![fmriprep](https://pbs.twimg.com/media/Dbt_hXeVQAEZHTS.jpg)
 
 * **Compute Canada (Beluga)**, as my computing platform
-
 ![ComputeCanada](https://www.ace-net.ca/wp-content/uploads/2018/03/Compute_Canada2.png)
 
-* **Python**, as my programming language
+* **Globus**, to for rapid file transfer on Compute Canada
+![Globus](https://mytechdecisions.com/wp-content/uploads/2019/07/globus_logo_small.png)
 
+* **Python**, as my programming language
 ![Python](https://content.techgig.com/thumb/msid-67886887,width-860,resizemode-4/How-Developers-use-Python-Programming-Language.jpg?50999)
 
-* **Jupyter**, as my notebook for codes, visualizations and narratives.
-
+* **Jupyter Notebook**, as my notebook for codes, visualizations and narratives.
 ![JupyterNotebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)
 
-* **Nilearn**, for my neuroimaging analysis and brain parcellations.
-
+* **Nilearn**, for my neuroimaging analysis.
 ![Nilearn](https://danilobzdok.de/wp-content/uploads/sites/521/ni-learn.jpg)
 
+* **Numpy is & Panda**, for data management
+![Numpy](https://meshlogic.github.io/posts/jupyter/linear-algebra/linear-algebra-numpy-1/numpy-logo.png)
+![Pandas](https://www.pinclipart.com/picdir/middle/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png)
+
+* **Conda (Computer; localy) or virtualenv (Beluga; remotely)**, to create seperate virtual environment for every projects I run
+![Virtualenv](https://miro.medium.com/max/750/1*FjqLQ08MEk6jSKxpzjCcVw.jpeg)
+
+## Which tools will I intend to learn secondarily, later in my own research career ##
+*(Now that I was familarized with them in Brain Hack)*
+One of my personal goal in research would be develop a platform from which brain imaging could be used more easily in the clinic. This woull be particularly useful in the long run if it provides insight from objective physiological measurements for the diagnostic or the severity assessments of certain diseases. This is especially true for pain, where **there exist no objective measurements for suffering**.
+
+* **Docker**, as my container to import the processing and analyses tools necessary.
+
+* **Deep Learning**, as a proxy for pre-processing (idea discussed by Pierre)
+*Within the context of increasing sample sizes, it would be now possible to develop a deep-learning algorithm that mimic pre-processing. This would result a significant reduction in the pre-processing power as well as a reduction in the size of the files*
+
+* **Machine Learning**, for clinical assessment/diagnostic 
+*As shown with various studies, the complexity captured from DL often leads to overfit and does not provide increased performance over simpler ML*
 
 ## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
 - [x] [ **Code** ] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
 
-- [ ] [ **Code & Analysis** ] Python script of my functional connectivity & cross-validation analysis
+- [x] [ **Code & Analysis** ] Python script of functional connectivity analyses
 
 - [ ] [ **Data** ] Present my output data obtained from fmriprep
 
