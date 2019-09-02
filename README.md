@@ -22,8 +22,7 @@ This notebook will use the *Placebo_1* Dataset, freely available from **OpenPain
 
 *NOTE: The structural data are currently not available on OpenPain (only functional data), but they will  be in the 10th of September.*
 
-![CLBP](http://dev.www.health.harvard.edu/media/content/images/L0714e-1.jpg)
-
+![CLBP_Infographic](https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/Christophe_CLBP%20Infographic.png?raw=true)
 
 This dataset comes from an RCT study investigating the determinants of placebo response. I will use the control group (i.e without placebo treatment; 68 participants) using their structural (T1w) and functioncal (rsfMRI) scans, during their first scanning session. For more information about the dataset, you may also refers to its original study:
 
