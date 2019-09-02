@@ -54,8 +54,9 @@ Not only I had the occasion to learn in a supportive environment how to implemen
 ![Nilearn](https://danilobzdok.de/wp-content/uploads/sites/521/ni-learn.jpg)
 
 * **Numpy is & Panda**, for data management
+
 ![Numpy](https://meshlogic.github.io/posts/jupyter/linear-algebra/linear-algebra-numpy-1/numpy-logo.png)
-![Pandas](https://www.pinclipart.com/picdir/middle/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png)
+![Pandas](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/03/pandas.jpg)
 
 * **Conda (Computer; localy) or virtualenv (Beluga; remotely)**, to create seperate virtual environment for every projects I run
 ![Virtualenv](https://miro.medium.com/max/750/1*FjqLQ08MEk6jSKxpzjCcVw.jpeg)
