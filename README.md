@@ -86,6 +86,7 @@ One of my personal goal in research would be develop a platform from which brain
 - [ ] [ **Notebook & Analysis** ] Provide some vizualizations of my preliminary results from nilearn and netneurotools
 
 ## What kind of medium will I use to present my results? ##
+![Output](https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/Images/Screen%20Shot%202019-09-02%20at%209.33.59%20PM.png?raw=true)
 
 #### A Jupyter Notebook presenting all my preliminary results, visualizations and explanations ####
 
