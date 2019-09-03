@@ -67,7 +67,7 @@ One of my personal goal in research would be develop a platform from which brain
 
 * **Docker**, as my container to import the processing and analyses tools necessary.
 
-* **Deep Learning**, as a proxy for pre-processing (idea discussed by Pierre)
+* **Deep Learning**, as a *proxy* for pre-processing.
 *Within the context of increasing sample sizes, it would be now possible to develop a deep-learning algorithm that mimic pre-processing. This would result a significant reduction in the pre-processing power as well as a reduction in the size of the files*
 
 * **Machine Learning**, for clinical assessment/diagnostic 
