@@ -71,7 +71,7 @@ One of my personal goal in research would be develop a platform from which brain
 *Within the context of increasing sample sizes, it would be now possible to develop a deep-learning algorithm that mimic pre-processing. This would result a significant reduction in the pre-processing power as well as a reduction in the size of the files*
 
 * **Machine Learning**, for clinical assessment/diagnostic 
-*As shown with various studies, the complexity captured from DL often leads to overfit and does not provide increased performance over simpler ML*
+*As shown with various studies, the complexity captured from DL often leads to overfit in clinical design and does not provide increased performance over simpler ML*
 
 ## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
 
