@@ -75,8 +75,6 @@ One of my personal goal in research would be develop a platform from which brain
 
 ## What do I deliver in this repository? ##
 
-- [x] [ **Code** ] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
-
 - [x] [ **Code & Analysis** ] Python script of functional connectivity analyses
 
 https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/FC.py
