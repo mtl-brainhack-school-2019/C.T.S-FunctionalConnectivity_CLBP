@@ -39,3 +39,5 @@ done
 ```
 
 What is the result? Instead of copying the whole file for every subject for visual inspection, you will only have to load the pdf. For my sample size (~50 subjects), this is equivalent to having to download **0.380 GB** instead of **750GB** to inspect the data in html.
+
+![IMAGE](https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/Images/Screen%20Shot%202019-09-02%20at%209.24.39%20PM.png?raw=true)
