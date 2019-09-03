@@ -38,3 +38,4 @@ echo $isub
 done
 ```
 
+What is the result? Instead of copying the whole file for every subject for visual inspection, you will only have to load the pdf. For my sample size (~50 subjects), this is equivalent to having to download **0.380 GB** instead of **750GB** to inspect the data in html.
