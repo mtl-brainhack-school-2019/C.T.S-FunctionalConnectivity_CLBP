@@ -73,29 +73,44 @@ One of my personal goal in research would be develop a platform from which brain
 * **Machine Learning**, for clinical assessment/diagnostic 
 *As shown with various studies, the complexity captured from DL often leads to overfit in clinical design and does not provide increased performance over simpler ML*
 
-## Which kind of deliverable do I want to implement: analysis, code, data, tutorial...? ##
+## What do I deliver in this repository? ##
 
 - [x] [ **Code** ] Scripts to install and operate (*sbatch*) fmriprep on Compute Canada
 
 - [x] [ **Code & Analysis** ] Python script of functional connectivity analyses
 
-- [ ] [ **Data** ] Present my output data obtained from fmriprep
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/FC.py
 
-- [ ] [ **Notebook** ] Make the script on a Jupyter Notebook, with all the relevant explanations of the analysis.
+- [x] [ **Data** ] Present my output data obtained from fmriprep
 
-- [ ] [ **Notebook & Analysis** ] Provide some vizualizations of my preliminary results from nilearn and netneurotools
-
-## What kind of medium will I use to present my results? ##
 ![Output](https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/Images/Screen%20Shot%202019-09-02%20at%209.33.59%20PM.png?raw=true)
 
-#### A Jupyter Notebook presenting all my preliminary results, visualizations and explanations ####
+- [x] [ **Notebook** ] Make the script on a Jupyter Notebook, with all the relevant explanations of the analysis.
 
-#### A folder on my repository with a copy of all my scripts used in this project ####
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/FunctionalConnectivity.ipynb
 
+- [x] [**fMRIprep on Beluga**]
 
+Part 1: Useful code on Beluga
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/1.%20UsefulCodeForBeluga.md
 
+Part 2: fmriprep on Beluga
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/2.%20fmriprepOnBeluga.md
 
+Part 3: Sbatch Template
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/3.%20sbatchOnBeluga.md
 
+Part 4: Running a jupyter notebook remotely
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/4.%20JupyterNotebookOnBeluga.md
 
+& Other additional scripts, which includes:
+- Bash script to select my confounds of interest
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/ConfoundsSelect.txt
+
+- Bash script to convert SVG to PDF (very useful for fmriprep on clusters, to know why see link)
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/SVGtoPDF.md
+
+- Requirements necessary for my projects
+https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP/blob/master/requirements.txt
 
 
