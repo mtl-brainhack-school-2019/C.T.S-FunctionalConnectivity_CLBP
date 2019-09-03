@@ -61,8 +61,8 @@ Not only I had the occasion to learn in a supportive environment how to implemen
 * **Conda (Computer; localy) or virtualenv (Beluga; remotely)**, to create seperate virtual environment for every projects I run
 ![Virtualenv](https://miro.medium.com/max/750/1*FjqLQ08MEk6jSKxpzjCcVw.jpeg)
 
-## Which tools will I intend to learn secondarily, later in my own research career ##
-*(Now that I was familarized with them in Brain Hack)*
+## Which tools will I intend to learn later in my own research career ##
+*(Now that I was familarized with them through Brain Hack)*
 One of my personal goal in research would be develop a platform from which brain imaging could be used more easily in the clinic. This woull be particularly useful in the long run if it provides insight from objective physiological measurements for the diagnostic or the severity assessments of certain diseases. This is especially true for pain, where **there exist no objective measurements for suffering**.
 
 * **Docker**, as my container to import the processing and analyses tools necessary.
