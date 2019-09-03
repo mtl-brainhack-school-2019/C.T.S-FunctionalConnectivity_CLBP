@@ -1,12 +1,13 @@
-#How to download CairoSVG function (svg to pdf)
-#Fmriprep typically gave us an HTML file on to be able to assess quality control. However, since we don't have a browser, we cannotvisualize the HTML file on the cluster (nor the SVG). Here, we will convert the svg INSIDE the cluster. From there, we will be able to import these files as pdf.
-#
-#
-#To install the python package, you will need to do it on your virtual environment (see Repo 1. ..)
-#pip3 install --user cairosvg
-# Note that BOTH pip3** and --user** are essential for the command to run on the cluster. The package is only available in python>=3.5 and can not be download in compute canada bin, must be your own bin in home directory.
+How to download CairoSVG function (svg to pdf)
+
+Fmriprep typically gave us an HTML file on to be able to assess quality control. However, since we don't have a browser, we cannotvisualize the HTML file on the cluster (nor the SVG). Here, we will convert the svg INSIDE the cluster. From there, we will be able to import these files as pdf.
 
 
+To install the python package, you will need to do it on your virtual environment (see Repo 1. ..)
+```pip3 install --user cairosvg```
+#### Note that BOTH pip3** and --user** are essential for the command to run on the cluster. The package is only available in python>=3.5 and can not be download in compute canada bin, must be your own bin in home directory. ####
+
+```
 #!/bin/sh
 cd /lustre03/project/6037352/tangsab8/CLBP_Network_Project/Placebo_1_Data_Copy/
 fileNames=($(ls -d sub*))
@@ -35,3 +36,5 @@ echo $isub
         done
     done
 done
+```
+
