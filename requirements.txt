@@ -45,7 +45,7 @@ neurdflib==5.0.0.post1
 nibabel==2.5.0
 nilearn==0.5.2
 nipype==1.2.0
-notebook==6.0.0
+notebook==6.1.5
 numpy==1.16.3
 packaging==19.1
 pandas==0.24.1
